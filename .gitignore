@@ -1,0 +1,6 @@
+sky-take-out/target/
+sky-take-out/.idea/
+sky-take-out/*.iml
+sky-take-out/application-dev.yml
+*.log
+nginx-1.20.2/
